@@ -6,7 +6,7 @@ BOT_TOKEN = os.environ["8066606951:AAG_bOJO-pSnPirxD0MD0yqWso14oX5LNrE"]
 UPI_ID = os.environ["ravnasur@kotak"]
 GROUP_LINK = os.environ["https://t.me/+i_-b1hqk3UI0YjE1"]
 
-bot = telebot.TeleBot(8066606951:AAG_bOJO-pSnPirxD0MD0yqWso14oX5LNrE)
+bot = telebot.TeleBot("8066606951:AAG_bOJO-pSnPirxD0MD0yqWso14oX5LNrE")
 
 user_data = {}
 ticket_counter = 1
